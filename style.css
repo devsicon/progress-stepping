@@ -21,6 +21,13 @@ body{
 .container{
 	text-align: center;
 }
+
+h2 {
+	margin-bottom: 100px;
+	color: darkcyan;
+	font-size: 60px;
+}
+
 .progress-container{
 	display: flex;
 	justify-content: space-between;
